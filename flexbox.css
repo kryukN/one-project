@@ -160,3 +160,22 @@ text-align: center;
 .button:visited{
 	color: white;
 }
+.networks{
+	margin: auto;
+	margin-top: 90px;
+	width: 342px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+}
+
+.note{
+	margin-top: 45px;
+	margin-bottom: 123px;
+	color: #828282;
+	font-family: Montserrat;
+	font-size: 14px;
+	line-height: 17px;
+	font-weight: 400;
+}
